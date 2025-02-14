@@ -3,7 +3,12 @@
 
 <h3 align="center">Passionate about software development, programming and technology. As a trans woman in the tech world, I believe in inclusion, innovation and the power of code to transform realities. </h3>
 <br/>
+<!-- SNAKE -->
 
+<p align = "center">
+	<img src = "https://github.com/shaylafool/snakes/blob/main/github-user-contribution.svg?" alt = "Snake Game"/>
+</p>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaylafool&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 <img align="center" width = 50px height=50px src ="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -119,6 +124,9 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
+![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
 ![Matrix Code](https://readme-typing-svg.herokuapp.com?color=green&lines=System+Hacking...;Brute+Forcing+Passwords...;Access+Granted!;Hello%20World!)
+
 
 Last Edited on: 13/02/2025
