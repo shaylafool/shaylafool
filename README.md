@@ -79,7 +79,6 @@
 
 <!-- Redes sociales estilo hacker -->
 <div align="center" style="margin-top: 20px; font-family: monospace; color: #0f0;">
-  <h2 style="font-size: 20px; text-transform: uppercase;">Conéctate conmigo</h2>
   
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 10px;">
     <!-- LinkedIn -->
