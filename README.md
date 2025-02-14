@@ -77,33 +77,44 @@
 <br/>
 <p align="center">
 
-<!-- redes -->
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-  ❤️
-  <!-- linkedin -->
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-  <!-- github -->
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-  <!-- stackoverflow -->
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-  <!-- DEV -->
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-  <!-- INSTAGRAM -->
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-  <!-- YOUTUBE -->
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-  <!-- DISCORD -->
- 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-  ❤️
-      </div>
-</p>
+<!-- Redes sociales estilo hacker -->
+<div align="center" style="margin-top: 20px; font-family: monospace; color: #0f0;">
+  <h2 style="font-size: 20px; text-transform: uppercase;">Conéctate conmigo</h2>
+  
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 10px;">
+    <!-- LinkedIn -->
+    <a target="_blank" href="https://www.linkedin.com/in/shayla-vargas-walteros-a88bab120/">
+      <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="48px" height="48px">
+    </a>
+    <!-- GitHub -->
+    <a target="_blank" href="https://github.com/shaylafool">
+      <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="48px" height="48px">
+    </a>
+    <!-- Stack Overflow -->
+    <a target="_blank" href="#">
+      <img src="https://img.icons8.com/fluency/48/stackoverflow.png" alt="Stack Overflow" width="48px" height="48px">
+    </a>
+    <!-- DEV -->
+    <a target="_blank" href="#">
+      <img src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="DEV" width="48px" height="48px">
+    </a>
+    <!-- Instagram -->
+    <a target="_blank" href="https://www.instagram.com/shayla_fool/">
+      <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="48px" height="48px">
+    </a>
+    <!-- YouTube -->
+    <a target="_blank" href="https://www.youtube.com/@shayla-fooll">
+      <img src="https://img.icons8.com/fluency/48/youtube-play.png" alt="YouTube" width="48px" height="48px">
+    </a>
+    <!-- Discord -->
+    <a target="_blank" href="https://discordapp.com/users/612318733519552513">
+      <img src="https://img.icons8.com/fluency/48/discord.png" alt="Discord" width="48px" height="48px">
+    </a>
+  </div>
+</div>
+
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- contribuciones --> 
 
