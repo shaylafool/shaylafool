@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://linktr.ee/wilter_port" target="blank"> Shayla</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img  src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+<h1 align="center"> Hi 👋, I'm <a href="https://linktr.ee/wilter_port" target="blank"> Shayla</a> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> 
 <img align="center" width="1000px" height="300px" src="https://i.postimg.cc/pLHzQQRT/DDASDA-removebg-preview.png" />
 
 <h3 align="center">Passionate about software development, programming and technology. As a trans woman in the tech world, I believe in inclusion, innovation and the power of code to transform realities. </h3>
@@ -12,13 +12,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaylafool&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
 <img align="center" width = 50px height=50px src ="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"/>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
+<p align="center">
+<img src="https://64.media.tumblr.com/8c372898bf9f54736117db8af6f76d0b/0674da4d685d3dc2-54/s400x600/8ea69c7192b4db6b11903f1120fad046044265b0.gifv" style="font-size: max(0.875em, 12px);"/>
+</p>
 <!-- STATS Y LENGUAJES MAS USADOS -->
 <div style="display:grid;align-items:center;justify-content:center">
     <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=shaylafool&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
     <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaylafool&layout=compact&theme=gotham&langs_count=8"/>
   </div>
-
+<p align = "center">
+<img src="https://64.media.tumblr.com/270d6be785f1bd32beb51620d02c9b82/0674da4d685d3dc2-8e/s400x600/ee72157dc1b04c454cdfa08bbbb61912f9f4960f.pnj" style="font-size: max(0.875em, 12px);"/>
+</p>
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br/>  
 <a target="_blank" align="center">
@@ -127,4 +131,23 @@
 ![Matrix Code](https://readme-typing-svg.herokuapp.com?color=green&lines=System+Hacking...;Brute+Forcing+Passwords...;Access+Granted!;Hello%20World!)
 
 
-Last Edited on: 13/02/2025
+Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+
+<!-- ESTAMPILLAS -->
+<p align="center">
+<img src="https://raining-starss.neocities.org/pastel%20(8).gif"/>
+<img src="https://external-media.spacehey.net/media/s7Fmh8TlgzCSfp1KEWYtHAthGq0fG9aCouqzdrp1DoSM=/https://i.ibb.co/XF9qWrh/cfaded761d8e1c42a9c35354d623cb9fd6bf5ee5.png"/>
+<img src="https://external-media.spacehey.net/media/s71pSH-bPik6p4LqkEpsIb_0kMoAPIWJt_ki8nUmptYI=/https://cdn.discordapp.com/attachments/978458551905321012/1146954621240217692/IMG_1997.gif"/>
+<img src="https://external-media.spacehey.net/media/s36rSGcD3dn_dT-ueC8gg21cinFp34w-ruBu8uAmutlI=/https://cdn.discordapp.com/attachments/1015140609335500831/1121120401909628999/d424txf-cba11715-f3d0-49aa-96fc-8858efc9544c.gif"/>
+<img src="https://external-media.spacehey.net/media/sGc8agVd9zSFTe7P9dn9qjWNb-5QeW2WpnvgZrTukUlI=/https://64.media.tumblr.com/d254dc3895d2f3c06e1f9a02f5d1e67b/tumblr_pgf5mzpwtc1xzybrpo1_100.gifv"/>
+<img src="https://external-media.spacehey.net/media/sCO1NIfbTTfKB5vUpqXsIlO6Y7zMIRGQQG5GiQrzVshQ=/https://64.media.tumblr.com/a4f1b2d074209c8eaf84984fbbbe53fc/tumblr_pgf5mzpwtc1xzybrpo3_100.gifv"/>
+<img src="https://raining-starss.neocities.org/rainbow%20(3).gif"/>
+<img src="https://external-media.spacehey.net/media/sjW3n-37woX_rH08R-bQ2ZIRdgfb02Jx6vYanP1VrjME=/https://64.media.tumblr.com/cfb4034226aaa402a08a54b894dd212b/tumblr_pgf5mzpwtc1xzybrpo5_100.png"/>
+<img src="https://raining-starss.neocities.org/3785739%20(4).gif"/>
+<img src="https://external-media.spacehey.net/media/sH2vmjVruWHi4GIKZHEMGdwl3jecw-FlRFzqMKremS2M=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28fb1909-cb86-4358-8ace-2ffee1c86b60/d29nol9-0021170a-670f-4b93-a05d-04af59c85486.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4ZmIxOTA5LWNiODYtNDM1OC04YWNlLTJmZmVlMWM4NmI2MFwvZDI5bm9sOS0wMDIxMTcwYS02NzBmLTRiOTMtYTA1ZC0wNGFmNTljODU0ODYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kLZmugziKtUwM-kFi2_Ir0A3XcM2sWcF1tkBG3ygNDU"/>
+<img src="https://external-media.spacehey.net/media/shxk873ptymUV9CheMBZveLVh8dIIzlmnzgrAqJuo7lk=/https://i.postimg.cc/y8zfZZNG/trans-miku.png"/>
+</p>
+
+
+
+
