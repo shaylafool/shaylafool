@@ -124,8 +124,6 @@
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
-![snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
-
 ![Matrix Code](https://readme-typing-svg.herokuapp.com?color=green&lines=System+Hacking...;Brute+Forcing+Passwords...;Access+Granted!;Hello%20World!)
 
 
