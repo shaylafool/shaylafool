@@ -145,6 +145,7 @@ Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FD
 
 <!-- ESTAMPILLAS -->
 <p align="center">
+<a href="https://foolwhome.blogspot.com/" target="_blank"><img src="https://i.postimg.cc/13bZT7K6/39-sin-t-tulo-20250224135424.png"></a>
 <img src="https://raining-starss.neocities.org/pastel%20(8).gif"/>
 <img src="https://external-media.spacehey.net/media/s7Fmh8TlgzCSfp1KEWYtHAthGq0fG9aCouqzdrp1DoSM=/https://i.ibb.co/XF9qWrh/cfaded761d8e1c42a9c35354d623cb9fd6bf5ee5.png"/>
 <img src="https://external-media.spacehey.net/media/s71pSH-bPik6p4LqkEpsIb_0kMoAPIWJt_ki8nUmptYI=/https://cdn.discordapp.com/attachments/978458551905321012/1146954621240217692/IMG_1997.gif"/>
