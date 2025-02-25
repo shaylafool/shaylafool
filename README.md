@@ -156,6 +156,9 @@ Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FD
 <img src="https://external-media.spacehey.net/media/sjW3n-37woX_rH08R-bQ2ZIRdgfb02Jx6vYanP1VrjME=/https://64.media.tumblr.com/cfb4034226aaa402a08a54b894dd212b/tumblr_pgf5mzpwtc1xzybrpo5_100.png"/>
 <img src="https://raining-starss.neocities.org/3785739%20(4).gif"/>
 <img src="https://external-media.spacehey.net/media/sH2vmjVruWHi4GIKZHEMGdwl3jecw-FlRFzqMKremS2M=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/28fb1909-cb86-4358-8ace-2ffee1c86b60/d29nol9-0021170a-670f-4b93-a05d-04af59c85486.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI4ZmIxOTA5LWNiODYtNDM1OC04YWNlLTJmZmVlMWM4NmI2MFwvZDI5bm9sOS0wMDIxMTcwYS02NzBmLTRiOTMtYTA1ZC0wNGFmNTljODU0ODYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kLZmugziKtUwM-kFi2_Ir0A3XcM2sWcF1tkBG3ygNDU"/>
+<img class="hov" src="https://leviathren.neocities.org/stamps/tobyfox.gif">
+<img class="hov" src="https://pixelsafari.neocities.org/buttons/3among.gif">
+<img class="hov" src="https://pixelsafari.neocities.org/buttons/2pokemon.gif">
 <img src="https://external-media.spacehey.net/media/shxk873ptymUV9CheMBZveLVh8dIIzlmnzgrAqJuo7lk=/https://i.postimg.cc/y8zfZZNG/trans-miku.png"/>
 </p>
 
