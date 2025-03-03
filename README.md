@@ -162,6 +162,14 @@ Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FD
 <img src="https://external-media.spacehey.net/media/shxk873ptymUV9CheMBZveLVh8dIIzlmnzgrAqJuo7lk=/https://i.postimg.cc/y8zfZZNG/trans-miku.png"/>
 </p>
 
+## Mi Lenguaje de Programación Destacado
 
+[![GitHub Language Stats](https://335c971c-0f34-4a26-ac91-330c803fc067-00-2l25l3gm03mcn.picard.replit.dev:5000/api/badge?username=shaylafool)](https://335c971c-0f34-4a26-ac91-330c803fc067-00-2l25l3gm03mcn.picard.replit.dev:5000?username=shaylafool)
+
+- **Lenguaje Principal:** Batchfile
+- **Porcentaje de Uso:** 87.28%
+- **Repositorios:** 4 de 11
+
+[Ver análisis completo](https://335c971c-0f34-4a26-ac91-330c803fc067-00-2l25l3gm03mcn.picard.replit.dev:5000?username=shaylafool)
 
 
