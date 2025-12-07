@@ -164,7 +164,7 @@ Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FD
 
 ## Mi SIMBOLO
 
-<img src="https://i.ibb.co/T9d7wzN/q.gif" height="400" width="400">
+<a href="https://ibb.co/1FjP0H4"><img src="https://i.ibb.co/1FjP0H4/q.gif" alt="q" border="0"></a>
 
 
 
