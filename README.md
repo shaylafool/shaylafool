@@ -164,7 +164,7 @@ Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FD
 
 ## Mi SIMBOLO
 
-<a href="https://ibb.co/1FjP0H4"><img src="https://i.ibb.co/1FjP0H4/q.gif" alt="q" border="0"></a>
+<a href="https://simbullda.blogspot.com/"><img src="https://i.ibb.co/1FjP0H4/q.gif" alt="q" border="0"></a>
 
 # PUBLICACIONES Y COMUNIDAD
 
