@@ -166,6 +166,10 @@ Last Edited on: 13/02/2025 <img src="https://media.giphy.com/media/8UHRm5oY4k4FD
 
 <a href="https://ibb.co/1FjP0H4"><img src="https://i.ibb.co/1FjP0H4/q.gif" alt="q" border="0"></a>
 
+# PUBLICACIONES Y COMUNIDAD
+
+<a href="https://shay-community.chatango.com/"><img src="https://images.vexels.com/media/users/3/134995/isolated/preview/494d76f3311343b2ef3d732448602125-silueta-de-icono-plano-de-burbujas-de-chat.png" border="0" align="center" width="200px" height="200px"></a>
+
 
 
 
